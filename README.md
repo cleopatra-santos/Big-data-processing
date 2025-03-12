@@ -12,5 +12,5 @@ This repository contains my projects, assignments, and studies related to the Bi
 - Python & Pandas 🐍  
 - SQL and NoSQL 🗄️
 
-Feel free to explore and contribute!
+
 
