@@ -1,5 +1,5 @@
 # Big-data-processing
-📊Big Data Processing 
+
 This repository contains my projects, assignments, and studies related to the Big Data Processing course. Here, I explore different tools, techniques, and frameworks used for processing, analyzing, and managing large datasets.
 
 📌 Repository Contents
